@@ -1,3 +1,3 @@
-Template.spiner.helpers({
+Template.spiner_liu.helpers({
   errors: "aaaa";
 });
