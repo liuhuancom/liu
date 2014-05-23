@@ -1,0 +1,8 @@
+{
+  "name": "spin_liu",
+  "description": "Simple spinner package for Meteor",
+  "homepage": "https://github.com/liuhuancom/liu",
+  "author": "liu huan",
+  "version": "0.0.1",
+  "git": "https://github.com/liuhuancom/liu.git"
+}
